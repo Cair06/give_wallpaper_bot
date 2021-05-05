@@ -4,7 +4,7 @@ import keyboards as kb
 from aiogram import Bot, Dispatcher, executor, types
 
 
-path = r"F:\Python_projects\Telegram\give_wallpaper_bot\img"
+path = r"img"
 #
 logging.basicConfig(level=logging.INFO)
 
